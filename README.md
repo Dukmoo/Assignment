@@ -13,6 +13,6 @@ Text editor (e.g., Visual Studio Code,  google Text).
 
 Installation
 1.	Clone the repository:
-2.	git clone 
+2.	git clone [Link](https://github.com/Dukmoo/Assignment/commit/21340913d10a4c315ed6557347816931ab935ea5)
 3.	Open the project in your preferred text editor.
 4.	Launch the index.html file in a web browser.
